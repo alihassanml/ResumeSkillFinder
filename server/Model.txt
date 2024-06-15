@@ -1,4 +1,5 @@
 Go To my drive and downlaod
+https://drive.google.com/drive/folders/1YTwqW1VVL3xY5h-4j8EV-Ymxj9BBt_hI?usp=sharing
 and paste here model
 if in react run you after url /upload 
 then go upload page
