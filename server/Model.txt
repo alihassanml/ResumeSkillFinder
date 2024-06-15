@@ -1,0 +1,4 @@
+Go To my drive and downlaod
+and paste here model
+if in react run you after url /upload 
+then go upload page

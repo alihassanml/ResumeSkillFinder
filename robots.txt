@@ -1,0 +1,4 @@
+User-agent: *
+allow: /alihassanml/ResumeSkillFinder.git
+allow: /ResumeSkillFinder
+allow: /github.com/alihassanml/
